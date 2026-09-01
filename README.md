@@ -126,7 +126,3 @@ The final enriched dataset showed failed login attempts originating from at leas
 ## Cleanup
 
 All resources (VM, storage account, Log Analytics Workspace, Sentinel instance, resource group) were deprovisioned after the lab to avoid ongoing Azure charges. In a production environment, this pipeline's components — log forwarding, enrichment, and dashboarding — would be left running continuously and backed by an automatically-updating threat intelligence feed rather than a static CSV.
-
----
-
-*This lab was based on a publicly available SOC training exercise, adapted with an original workaround after encountering a Microsoft Sentinel platform outage affecting the Watchlist and Workbook features at the time of the build.*
