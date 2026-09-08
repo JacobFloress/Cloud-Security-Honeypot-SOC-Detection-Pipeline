@@ -2,6 +2,7 @@
 
 **Author:** Jacob Flores
 **Repo:** [Cloud-Security-Honeypot-SOC-Detection-Pipeline](https://github.com/JacobFloress/Cloud-Security-Honeypot-SOC-Detection-Pipeline)
+**Full Report:**(https://drive.google.com/file/d/1J57VnNvOEWPKKuSMzy3ZnVknnuNNM4-0/view?usp=sharing)
 
 ## 1. Summary
 
